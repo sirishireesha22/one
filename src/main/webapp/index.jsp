@@ -733,7 +733,7 @@
             },
             {
                 id: 'clothing',
-                name: 'Clothing',
+                name: 'Cloths',
                 icon: 'fa-tshirt'
             },
             {
